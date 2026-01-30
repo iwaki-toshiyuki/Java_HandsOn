@@ -1,3 +1,4 @@
+// 文字列が回文かどうかを判定する
 public class Palindrome {
     public static void main(String[] args) {
             String s = "level";

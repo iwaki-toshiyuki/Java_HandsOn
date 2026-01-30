@@ -1,3 +1,4 @@
+// 0からNまでの和を計算する
 public class Sum {
     public static void main(String[] args) {
         int N = 10; // 入力値（本番では標準入力）

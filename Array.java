@@ -1,3 +1,4 @@
+// 配列の最大化
 public class Array {
     public static void main(String[] args) {
             int[] numbers = {3, 5, 2, 9, 1};
