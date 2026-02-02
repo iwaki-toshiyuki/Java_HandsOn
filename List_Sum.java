@@ -4,6 +4,8 @@ public class List_Sum {
         int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         System.out.println("偶数の合計: " + sumEvenNumbers(numbers));
     }
+
+    // 偶数の合計を計算するメソッド
     public static int sumEvenNumbers(int[] numbers) {
         int sum = 0;
 
