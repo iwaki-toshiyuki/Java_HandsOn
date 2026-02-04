@@ -8,6 +8,7 @@ public class Bine {
         }
     }
 
+    // フィボナッチ数を求めるビネの公式メソッド
     public static long fibonacci(int num) {
         return Math.round((Math.pow((1 + Math.sqrt(5)) / 2, num)
         - Math.pow((1 - Math.sqrt(5)) / 2,num )) / Math.sqrt(5));
